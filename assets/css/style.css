@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #header.header-scrolled {
-  background: rgba(175, 169, 167, 0.842);
+  background: rgba(10, 10, 10, 0.842);
   height: 60px;
   padding: 10px 0;
 }
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .nav-menu a {
   display: block;
   position: relative;
-  color: rgb(49, 46, 46);
+  color: rgb(255, 255, 255);
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #68A4C4;
+  border: 2px solid #e30001;
 }
 
 #hero .btn-get-started:hover {
